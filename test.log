@@ -1,0 +1,2 @@
+2026-03-14 14:08:54,732 - test - INFO - ✅ Google Sheets authentication successful
+2026-03-14 14:08:54,999 - test - ERROR - ❌ Failed to open spreadsheet: <Response [404]>
